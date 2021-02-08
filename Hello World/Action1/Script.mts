@@ -1,3 +1,3 @@
 ﻿msgbox "msgbox Hello World"
-print "output Hellow World"
+print "output Hello World"
 
