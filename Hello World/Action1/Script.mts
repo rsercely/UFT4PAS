@@ -1,3 +1,3 @@
-﻿msgbox "msgbox Hello World"
+﻿msgbox "msgBox Hello World"
 print "output Hello World"
 
